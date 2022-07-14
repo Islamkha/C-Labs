@@ -4,7 +4,7 @@ int main ()
 {
 	int a;// numero 
 	int b; // incremento
-	int c; / decremento
+	int c; // decremento
 	printf(" Inserice un numero\n");
 	scanf("%d",&a);
 //	scanf(a++,b);
