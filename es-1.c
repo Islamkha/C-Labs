@@ -2,7 +2,9 @@
 
 int main ()
 {
-	int a, b, c;
+	int a;// numero 
+	int b; // incremento
+	int c; / decremento
 	printf(" Inserice un numero\n");
 	scanf("%d",&a);
 //	scanf(a++,b);
